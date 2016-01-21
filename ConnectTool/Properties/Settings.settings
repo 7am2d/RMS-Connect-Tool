@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConnectTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="clueConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=192.168.1.105;Initial Catalog=clue;User ID=sa&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=192.168.1.105;Initial Catalog=clue;User ID=sa</Value>
+    </Setting>
+    <Setting Name="ClueTestConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=localhost;Initial Catalog=ClueTest;Persist Security Info=True;User ID=sa;Password=ClueHQ_password&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=localhost;Initial Catalog=ClueTest;Persist Security Info=True;User ID=sa;Password=ClueHQ_password</Value>
+    </Setting>
+    <Setting Name="DBServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="DBName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ClueTest</Value>
+    </Setting>
+    <Setting Name="DBUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ClueHQ_password</Value>
+    </Setting>
+    <Setting Name="Details" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> AND EventMessage NOT LIKE '%Download%' AND EventMessage NOT LIKE 'Upload%' AND EventMessage NOT LIKE 'Receive%' AND EventMessage NOT LIKE 'Created%' AND EventMessage NOT LIKE 'Update%' AND EventMessage NOT LIKE 'Deleted%' AND EventMessage NOT LIKE 'Synchronized%' AND EventMessage NOT LIKE 'Store-HQ Time%' AND EventMessage NOT LIKE 'Local and HQ%'  AND EventMessage NOT LIKE 'Opening of local %' AND EventMessage NOT LIKE 'Closed local %' AND EventMessage != '======= CONNECTION ENDED ======='</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

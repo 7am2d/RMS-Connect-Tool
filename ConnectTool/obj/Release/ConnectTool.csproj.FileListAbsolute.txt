@@ -1,0 +1,10 @@
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\bin\Release\ConnectTool.exe.config
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Release\ConnectTool.csprojResolveAssemblyReference.cache
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Release\ConnectTool.Form1.resources
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Release\ConnectTool.Form2.resources
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Release\ConnectTool.Properties.Resources.resources
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Release\ConnectTool.csproj.GenerateResource.Cache
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\bin\Release\ConnectTool.exe
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\bin\Release\ConnectTool.pdb
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Release\ConnectTool.exe
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Release\ConnectTool.pdb

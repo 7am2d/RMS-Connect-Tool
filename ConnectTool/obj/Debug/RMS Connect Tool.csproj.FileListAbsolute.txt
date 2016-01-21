@@ -1,0 +1,11 @@
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\bin\Debug\ConnectTool.exe.config
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\bin\Debug\ConnectTool.exe
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\bin\Debug\ConnectTool.pdb
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Debug\ConnectTool.Details.resources
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Debug\ConnectTool.Main.resources
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Debug\ConnectTool.Connection.resources
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Debug\ConnectTool.Form3.resources
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Debug\ConnectTool.Properties.Resources.resources
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Debug\RMS Connect Tool.csproj.GenerateResource.Cache
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Debug\ConnectTool.exe
+C:\Users\JM\Documents\GitHub\All-Projects\Projects\ConnectTool\ConnectTool\obj\Debug\ConnectTool.pdb
